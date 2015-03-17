@@ -5,6 +5,10 @@ class Initiator extends \Controller_Addon {
     function init(){
         parent::init();
 
+
+        $this->addLocation(['dbupdates'=>'doc/dbupdates']);
+
+
         if(!$this->app instanceof \App_Admin)retrun;
 
         $this->app->dam=$this;
