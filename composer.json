@@ -10,6 +10,7 @@
     },
     "require": {
         "atk4/atk4": "4.*",
+        "phpseclib/phpseclib": "0.3.*@dev",
         "php": ">=5.2"
     }
 }
