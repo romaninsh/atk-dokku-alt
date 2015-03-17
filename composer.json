@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-0": {
+            "atk_dokku_alt": [
+                ""
+            ]
+        }
+    },
+    "require": {
+        "atk4/atk4": "4.*",
+        "php": ">=5.2"
+    }
+}
