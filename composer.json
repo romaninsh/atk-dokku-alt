@@ -1,7 +1,9 @@
 {
+    "name": "romaninsh/dokku_alt",
+    "version": "1.0.0",
     "autoload": {
         "psr-0": {
-            "atk_dokku_alt": [
+            "dokku_alt": [
                 ""
             ]
         }
